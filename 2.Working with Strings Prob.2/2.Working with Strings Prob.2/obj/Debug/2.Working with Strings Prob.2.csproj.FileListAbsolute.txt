@@ -1,0 +1,7 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-26 - uppgifter (Exercises)\2.Working with Strings Prob.2\2.Working with Strings Prob.2\obj\Debug\2.Working with Strings Prob.2.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-26 - uppgifter (Exercises)\2.Working with Strings Prob.2\2.Working with Strings Prob.2\obj\Debug\2.Working with Strings Prob.2.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-26 - uppgifter (Exercises)\2.Working with Strings Prob.2\2.Working with Strings Prob.2\bin\Debug\2.Working with Strings Prob.2.exe.config
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-26 - uppgifter (Exercises)\2.Working with Strings Prob.2\2.Working with Strings Prob.2\bin\Debug\2.Working with Strings Prob.2.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-26 - uppgifter (Exercises)\2.Working with Strings Prob.2\2.Working with Strings Prob.2\bin\Debug\2.Working with Strings Prob.2.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-26 - uppgifter (Exercises)\2.Working with Strings Prob.2\2.Working with Strings Prob.2\obj\Debug\2.Working with Strings Prob.2.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-26 - uppgifter (Exercises)\2.Working with Strings Prob.2\2.Working with Strings Prob.2\obj\Debug\2.Working with Strings Prob.2.pdb

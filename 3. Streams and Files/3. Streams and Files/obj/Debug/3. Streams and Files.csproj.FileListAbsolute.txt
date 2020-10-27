@@ -1,0 +1,7 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\3. Streams and Files\3. Streams and Files\obj\Debug\3. Streams and Files.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\3. Streams and Files\3. Streams and Files\obj\Debug\3. Streams and Files.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\3. Streams and Files\3. Streams and Files\bin\Debug\_3.Streams_and_Files.exe.config
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\3. Streams and Files\3. Streams and Files\bin\Debug\_3.Streams_and_Files.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\3. Streams and Files\3. Streams and Files\bin\Debug\_3.Streams_and_Files.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\3. Streams and Files\3. Streams and Files\obj\Debug\_3.Streams_and_Files.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\3. Streams and Files\3. Streams and Files\obj\Debug\_3.Streams_and_Files.pdb

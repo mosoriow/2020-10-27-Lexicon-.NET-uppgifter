@@ -1,0 +1,7 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\5. Multidimensional Arrays\5. Multidimensional Arrays\bin\Debug\_5.Multidimensional_Arrays.exe.config
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\5. Multidimensional Arrays\5. Multidimensional Arrays\bin\Debug\_5.Multidimensional_Arrays.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\5. Multidimensional Arrays\5. Multidimensional Arrays\bin\Debug\_5.Multidimensional_Arrays.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\5. Multidimensional Arrays\5. Multidimensional Arrays\obj\Debug\5. Multidimensional Arrays.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\5. Multidimensional Arrays\5. Multidimensional Arrays\obj\Debug\5. Multidimensional Arrays.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\5. Multidimensional Arrays\5. Multidimensional Arrays\obj\Debug\_5.Multidimensional_Arrays.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\5. Multidimensional Arrays\5. Multidimensional Arrays\obj\Debug\_5.Multidimensional_Arrays.pdb

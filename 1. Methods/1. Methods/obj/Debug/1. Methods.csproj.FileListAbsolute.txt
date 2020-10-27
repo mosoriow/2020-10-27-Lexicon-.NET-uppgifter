@@ -1,0 +1,7 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-26 - uppgifter (Exercises)\1. Methods\1. Methods\bin\Debug\_1.Methods.exe.config
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-26 - uppgifter (Exercises)\1. Methods\1. Methods\bin\Debug\_1.Methods.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-26 - uppgifter (Exercises)\1. Methods\1. Methods\bin\Debug\_1.Methods.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-26 - uppgifter (Exercises)\1. Methods\1. Methods\obj\Debug\1. Methods.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-26 - uppgifter (Exercises)\1. Methods\1. Methods\obj\Debug\1. Methods.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-26 - uppgifter (Exercises)\1. Methods\1. Methods\obj\Debug\_1.Methods.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\2020-10-26 - uppgifter (Exercises)\1. Methods\1. Methods\obj\Debug\_1.Methods.pdb

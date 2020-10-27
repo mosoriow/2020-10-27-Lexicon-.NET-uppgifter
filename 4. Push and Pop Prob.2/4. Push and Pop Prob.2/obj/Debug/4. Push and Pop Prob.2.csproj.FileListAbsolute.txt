@@ -1,0 +1,7 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\4. Push and Pop Prob.2\4. Push and Pop Prob.2\bin\Debug\_4.Push_and_Pop_Prob._2.exe.config
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\4. Push and Pop Prob.2\4. Push and Pop Prob.2\bin\Debug\_4.Push_and_Pop_Prob._2.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\4. Push and Pop Prob.2\4. Push and Pop Prob.2\bin\Debug\_4.Push_and_Pop_Prob._2.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\4. Push and Pop Prob.2\4. Push and Pop Prob.2\obj\Debug\4. Push and Pop Prob.2.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\4. Push and Pop Prob.2\4. Push and Pop Prob.2\obj\Debug\4. Push and Pop Prob.2.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\4. Push and Pop Prob.2\4. Push and Pop Prob.2\obj\Debug\_4.Push_and_Pop_Prob._2.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\4. Push and Pop Prob.2\4. Push and Pop Prob.2\obj\Debug\_4.Push_and_Pop_Prob._2.pdb

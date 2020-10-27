@@ -1,0 +1,7 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.exe.config
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\SimpleClasses\SimpleClasses\bin\Debug\SimpleClasses.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\SimpleClasses\SimpleClasses\obj\Debug\SimpleClasses.pdb
